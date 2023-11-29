@@ -1,0 +1,10 @@
+C:\Users\ch-kue\source\repos\CalculatorSolution\CalculatorSolution\bin\Debug\CalculatorSolution.exe.config
+C:\Users\ch-kue\source\repos\CalculatorSolution\CalculatorSolution\bin\Debug\CalculatorSolution.exe
+C:\Users\ch-kue\source\repos\CalculatorSolution\CalculatorSolution\bin\Debug\CalculatorSolution.pdb
+C:\Users\ch-kue\source\repos\CalculatorSolution\CalculatorSolution\obj\Debug\CalculatorSolution.csproj.AssemblyReference.cache
+C:\Users\ch-kue\source\repos\CalculatorSolution\CalculatorSolution\obj\Debug\CalculatorSolution.Cal_Form.resources
+C:\Users\ch-kue\source\repos\CalculatorSolution\CalculatorSolution\obj\Debug\CalculatorSolution.Properties.Resources.resources
+C:\Users\ch-kue\source\repos\CalculatorSolution\CalculatorSolution\obj\Debug\CalculatorSolution.csproj.GenerateResource.cache
+C:\Users\ch-kue\source\repos\CalculatorSolution\CalculatorSolution\obj\Debug\CalculatorSolution.csproj.CoreCompileInputs.cache
+C:\Users\ch-kue\source\repos\CalculatorSolution\CalculatorSolution\obj\Debug\CalculatorSolution.exe
+C:\Users\ch-kue\source\repos\CalculatorSolution\CalculatorSolution\obj\Debug\CalculatorSolution.pdb
